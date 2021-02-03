@@ -326,7 +326,7 @@ contains
                         Atm(n)%uc,Atm(n)%vc, Atm(n)%ua,Atm(n)%va,        &
                         Atm(n)%ak, Atm(n)%bk, Atm(n)%gridstruct, Atm(n)%flagstruct,&
                         Atm(n)%npx, Atm(n)%npy, npz, Atm(n)%ng, &
-                        ncnst, Atm(n)%flagstruct%nwat,  &
+                        ntprog, Atm(n)%flagstruct%nwat,  &
                         Atm(n)%flagstruct%ndims, Atm(n)%flagstruct%ntiles, &
                         Atm(n)%flagstruct%dry_mass, &
                         Atm(n)%flagstruct%mountain,       &
